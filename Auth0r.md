@@ -7,6 +7,7 @@
 ## Solution:
 
 According to the description, we need to find the site of this challenge author (**U!B_Sidhartha**).
+
 I tired searching for (UiB Sidhartha) in some social media sites, and I found his Twitter account and his Instagram account.
 
 ![image](https://user-images.githubusercontent.com/70543460/94370624-c6607900-00f9-11eb-9f56-55cfd0c4f00f.png)
