@@ -34,7 +34,8 @@ And here are the steps to find that hotspot:
 
    
 
-   ![image](https://user-images.githubusercontent.com/70543460/94369595-5222d700-00f3-11eb-9602-0c64250d2940.png)
+   ![image](https://user-images.githubusercontent.com/70543460/94369868-f2c5c680-00f4-11eb-8725-b2ed05b5cdc9.png)
+
 
 <br/><br/>
 
