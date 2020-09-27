@@ -28,6 +28,7 @@ https://www.cvedetails.com/cve/CVE-2007-3561/
 
 ![image](https://user-images.githubusercontent.com/70543460/94371657-cadc6000-0100-11eb-8113-e5819122311f.png)
 
+<br/><br/>
 
 The affected product was a blog software called "**Efendy Blog**"
 
