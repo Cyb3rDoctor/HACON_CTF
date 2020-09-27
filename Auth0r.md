@@ -16,10 +16,10 @@ I tired searching for (UiB Sidhartha) in some social media sites, and I found hi
 
 <br/><br/>
 
-Nice! The author site is there (www.theuib.live)
+Nice! The author site is there. (www.theuib.live)
 
 <br/><br/>
-The flag was in a hidden directory which you could find it in the home page source, and it's (/hacsecurity)
+The flag was in a hidden directory which you could find in the home page source, and it's (/hacsecurity)
 
 ![image](https://user-images.githubusercontent.com/70543460/94371029-0fb1c800-00fc-11eb-9a91-8c8627513c37.png)
 
