@@ -41,7 +41,7 @@ And here are the steps to find that hotspot:
 
 You will see one search result:
 
-![image](https://user-images.githubusercontent.com/70543460/94369650-d8d7b400-00f3-11eb-8a70-881bed6c555d.png)
+![image](https://user-images.githubusercontent.com/70543460/94369907-24d72880-00f5-11eb-9b6b-2320fb94aa47.png)
 
 <br/><br/>
 
