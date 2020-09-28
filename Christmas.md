@@ -38,7 +38,7 @@ Those are ASCII codes.
 ![image](https://user-images.githubusercontent.com/70543460/94372622-ec8d1580-0107-11eb-9900-727e7498ff00.png)
 <br/><br/>
 
-To convert them to characters, you can code a simple program to do that, or you can use online tools.
+To convert them to characters, you can create a simple program to do that, or you can use online tools.
 
 ```C++
 #include <iostream>
